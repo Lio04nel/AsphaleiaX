@@ -3,10 +3,10 @@
 <plist version="1.0">
 <dict>
 	<key>SECURED_ITEMS</key>
-	<string>Secured Items</string>
+	<string>Articles sécurisés</string>
 	<key>PASSCODE_OPTIONS</key>
-	<string>Passcode Options</string>
+	<string>Options du mot de passe</string>
 	<key>THE_CREATORS</key>
-	<string>The Creators</string>
+	<string>Les Créateurs</string>
 </dict>
 </plist>

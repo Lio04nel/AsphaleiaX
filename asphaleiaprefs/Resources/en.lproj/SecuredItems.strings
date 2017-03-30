@@ -3,27 +3,27 @@
 <plist version="1.0">
 <dict>
   <key>TITLE</key>
-  <string>Secured Items</string>
+  <string>Articles sécurisés</string>
 
   <key>ACTIVATOR_FOOTER</key>
-  <string>Use Activator in an app to add or remove it from your Secured Apps list.</string>
+  <string>Utilisez Activator dans une application pour l'ajouter ou la supprimer de votre liste d'applications sécurisées.</string>
   <key>DYNAMIC_SELECTION</key>
-  <string>Dynamic Selection</string>
+  <string>Sélection dynamique</string>
   <key>ACTIVATOR_ACTIONS</key>
-  <string>Activator Actions</string>
+  <string>Action Activator</string>
 
   <key>ADVANCED_SECURITY</key>
-  <string>Advanced Security</string>
+  <string>Sécurité avancée</string>
 
   <key>GLOBAL_APP_SECURITY</key>
-  <string>Global App Security</string>
+  <string>Sécurité des applications globales</string>
   <key>SECURED_APPS</key>
-  <string>Secured Apps</string>
+  <string>Applications sécurisées</string>
   <key>SECURED_FOLDERS</key>
-  <string>Secured Folders</string>
+  <string>Dossiers sécurisés</string>
   <key>SECURED_SETTINGS_PANELS</key>
-  <string>Secured Settings Panels</string>
+  <string>Panneaux de paramètres sécurisés</string>
   <key>SECURED_FLIPSWITCHES</key>
-  <string>Secured Flipswitch Switches</string>
+  <string>Toggles sécurisés</string>
 </dict>
 </plist>

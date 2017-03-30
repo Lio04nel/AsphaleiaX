@@ -3,16 +3,16 @@
 <plist version="1.0">
 <dict>
   <key>TITLE</key>
-  <string>Control Panel</string>
+  <string>Panneau de contrôle</string>
 
   <key>CONTROL_PANEL_FOOTER</key>
-  <string>Use Activator to access Asphaleia's Control Panel.</string>
+  <string>Utilisez Activator pour accéder au Panneau de configuration d'Asphaleia.</string>
   <key>CONTROL_PANEL</key>
-  <string>Control Panel</string>
+  <string>Panneau de contrôle</string>
   <key>ACTIVATOR_ACTIONS</key>
-  <string>Activator Actions</string>
+  <string>Actions Activator</string>
 
   <key>ALLOW_IN_APPS</key>
-  <string>Allow Access in Apps</string>
+  <string>Autoriser l'accès aux applications</string>
 </dict>
 </plist>

@@ -3,34 +3,34 @@
 <plist version="1.0">
 <dict>
   <key>TITLE</key>
-  <string>Passcode Options</string>
+  <string>Options du mot de passe</string>
 
   <key>PIN_FOOTER</key>
-  <string>Open Secured Items with a 6-digit number.</string>
+  <string>Ouvrir les applications sécurisés avec un nombre à 6 chiffres.</string>
   <key>CHANGE_PASSCODE</key>
-  <string>Change Passcode</string>
+  <string>Changer le mot de passe</string>
   <key>PASSCODE</key>
-  <string>Passcode</string>
+  <string>Mot de passe</string>
 
   <key>FINGERPRINT_FOOTER</key>
-  <string>Open Secured Items by scanning your fingerprint. Tap icon again to enter passcode instead, or tap anywhere to cancel.</string>
+  <string>Ouvrez les éléments sécurisés en numérisant vos empreintes digitales. Appuyez de nouveau sur l'icône pour entrer le mot de passe ou appuyez sur n'importe où pour annuler.</string>
   <key>TOUCHID</key>
   <string>Touch ID</string>
   <key>VIBRATE_ON_FAIL</key>
-  <string>Vibrate On Fail</string>
+  <string>Vibreur en cas d'échec</string>
 
   <key>AUTH_FOOTER</key>
-  <string>Set how long after exiting an app before authorization is required to open it again.</string>
+  <string>Définissez la durée de la sortie d'une application avant l'autorisation requise pour l'ouvrir à nouveau.</string>
   <key>REQUIRE_AUTHORIZATION</key>
-  <string>Require Authorization</string>
+  <string>Autorisation requise</string>
 
   <key>ADVANCED_OPTIONS</key>
-  <string>Advanced Options</string>
+  <string>Options avancées</string>
 
   <key>CONTROL_PANEL</key>
-  <string>Asphaleia Control Panel</string>
+  <string>panneau de contrôle d'Asphaleia</string>
 
   <key>RESET_SETTINGS</key>
-  <string>Reset All Settings</string>
+  <string>Réinitialiser tous les réglages</string>
 </dict>
 </plist>
